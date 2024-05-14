@@ -1,0 +1,49 @@
+body{
+    background-color: #FFAF61;
+}
+
+
+.formatar{
+    text-align: center;
+    background-color: #FFDB5C;
+    color:#FF70AB
+}
+
+
+#campoTexto{
+    text-align: center;
+    background-color: #FFDB5C;
+    
+
+}
+
+textarea{
+    background-color: #FFDB5C;
+    margin: 50px;
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    border: 0px; solid;
+    text-align: center;
+}
+
+.lora-fonte {
+    font-family: "Lora", serif;
+    font-optical-sizing: auto;
+    font-weight: 550;
+    font-style: italic;
+    font-size: 1.6rem;
+
+  }
+  
+  .lora-fonte1 {
+    font-family: "Lora", serif;
+    font-optical-sizing: auto;
+    font-weight: 550;
+    font-style: italic;
+    font-size: 1.2rem;
+    text-align: right;
+
+  }
+  
