@@ -24,7 +24,7 @@ var frases =[
     "Eu sou o pão da vida. O que vem a mim jamais terá fome, e o que crê em mim jamais terá sede. Jesus Cristo",
     "Se vós estiverdes em mim, e as minhas palavras estiverem em vós, pedireis tudo o que quiserdes, e vos será feito. Jesus Cristo",
     "Das ovelhas que meu Pai me confiou, nenhuma se perderá. Jesus Cristo",
-    "Quem de mim se alimenta por mim viverá.Jesus Cristo",
+    "Quem de mim se alimenta por mim viverá. Jesus Cristo",
     "Eu sou a luz do mundo. Quem me segue, nunca andará em trevas, mas terá a luz da vida. Jesus Cristo",
     "Nem só de pão viverá o Homem, mas de toda palavra de Deus! Jesus Cristo",
     "Mil cairão ao teu lado, dez mil à tua direita. Mas tu não serás atingido. Jesus Cristo",
