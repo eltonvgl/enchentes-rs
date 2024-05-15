@@ -19,11 +19,9 @@ body{
 
 textarea{
     background-color: #FFDB5C;
-    margin: 50px;
-    padding-left: 300px;
-    padding-right: 300px;
-    padding-top: 80px;
-    padding-bottom: 80px;
+    margin: 10px;
+    padding-top: 70px;
+    padding-bottom: 90px;
     border: 0px; solid;
     text-align: center;
 }
